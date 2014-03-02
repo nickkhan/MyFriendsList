@@ -1,0 +1,116 @@
+[
+	{
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "paul",
+			"last": "hayes"
+		},
+		"location": {
+			"street": "1307 fincher rd",
+			"city": "rochester",
+			"state": "arkansas",
+			"zip": "78670"
+		},
+		"email": "paul.hayes73@example.com",
+		"username": "smallmeercat570",
+		"picture": "http://api.randomuser.me/0.3/portraits/men/18.jpg",
+		"id": 0,
+		"friendIds": [1, 2, 3]
+	},
+	{
+		"gender": "female",
+		"name": {
+			"title": "ms",
+			"first": "sofia",
+			"last": "king"
+		},
+		"location": {
+			"street": "7679 forest ln",
+			"city": "plano",
+			"state": "iowa",
+			"zip": "65302"
+		},
+		"email": "sofia.king12@example.com",
+		"username": "ticklishbutterfly468",
+		"picture": "http://api.randomuser.me/0.3/portraits/women/7.jpg",
+		"id": 1,
+		"friendIds": [0, 3, 26, 37, 2]
+	},
+	{
+		"gender": "female",
+		"name": {
+			"title": "mrs",
+			"first": "sofia",
+			"last": "henderson"
+		},
+		"location": {
+			"street": "6840 northaven rd",
+			"city": "buffalo",
+			"state": "arkansas",
+			"zip": "18564"
+		},
+		"email": "sofia.henderson46@example.com",
+		"username": "purplelion892",
+		"picture": "http://api.randomuser.me/0.3/portraits/women/25.jpg",
+		"id": 26,
+		"friendIds": [1]
+	},
+	{
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "eli",
+			"last": "clark"
+		},
+		"location": {
+			"street": "5468 hogan st",
+			"city": "sunnyvale",
+			"state": "north carolina",
+			"zip": "71570"
+		},
+		"email": "eli.clark40@example.com",
+		"username": "crazylion558",
+		"picture": "http://api.randomuser.me/0.3/portraits/men/32.jpg",
+		"id": 37,
+		"friendIds": [1]
+	},
+	{
+		"gender": "male",
+		"name": {
+			"title": "mr",
+			"first": "gabriel",
+			"last": "richardson"
+		},
+		"location": {
+			"street": "6793 blossom hill rd",
+			"city": "columbus",
+			"state": "connecticut",
+			"zip": "62652"
+		},
+		"email": "gabriel.richardson45@example.com",
+		"username": "tinybutterfly57",
+		"picture": "http://api.randomuser.me/0.3/portraits/men/26.jpg",
+		"id": 2,
+		"friendIds": [0, 1]
+	},
+	{
+		"gender": "female",
+		"name": {
+			"title": "miss",
+			"first": "claire",
+			"last": "adams"
+		},
+		"location": {
+			"street": "7746 poplar dr",
+			"city": "shiloh",
+			"state": "texas",
+			"zip": "83730"
+		},
+		"email": "claire.adams44@example.com",
+		"username": "tinyfish241",
+		"picture": "http://api.randomuser.me/0.3/portraits/women/16.jpg",
+		"id": 3,
+		"friendIds": [0, 1]
+	}
+]
